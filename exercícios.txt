@@ -1,0 +1,14 @@
+1. Crie uma função que receba dois parâmetros (numero1, numero2) e retorne o maior entre eles.
+
+2. Crie uma função que receba tres parâmetros (numero1, numero2, numero3) e retorne o maior entre eles.
+
+3. Na geometria existem três tipos de triângulos que são categorizados conforme os seus lados
+  - Equilatero (3 lados iguais)
+  - Isósceles (2 lados iguais)
+  - Escaleno (0 lados iguais)
+Crie uma função que receba como parâmetro os três lados do triangulo e retorne qual o tipo dele.
+
+4. Crie uma função chamada imprimirTabuada(numero) e faça com que ela imprima a tabuada de multiplicação do número passado como parâmetro.
+
+5. Crie uma função chamada cadastraProduto(nome, valor).
+Dica: Use um array fora da function e adicione o objeto dentro dele.
